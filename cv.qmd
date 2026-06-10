@@ -6,7 +6,7 @@ title: "CV"
 
 A PDF version of my CV is available here:
 
-[Download CV](files/Ajay_Dev_CV.pdf)
+[Download CV](files/CV - Ajay Dev.pdf)
 
 ## Education
 
