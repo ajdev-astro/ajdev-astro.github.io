@@ -1,0 +1,24 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+## First-author papers
+
+1. **Dev, A.**, et al.  
+   *The HI content of galaxy groups and its connection to dark matter haloes.*  
+   MNRAS, 2023.
+
+2. **Dev, A.**, et al.  
+   *A multi-wavelength census of baryons in dark matter haloes at low redshift.*  
+   2024.
+
+3. **Dev, A.**, et al.  
+   *The HI--halo mass relation from ASKAP-DINGO spectral stacking.*  
+   In preparation / under revision.
+
+## Full publication list
+
+- [NASA ADS](https://ui.adsabs.harvard.edu/)
+- [Google Scholar](https://scholar.google.com/)

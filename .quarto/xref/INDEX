@@ -1,0 +1,23 @@
+{
+  "teaching.qmd": {
+    "teaching.html": "95f9324b"
+  },
+  "research.qmd": {
+    "research.html": "15d8a940"
+  },
+  "contact.qmd": {
+    "contact.html": "ea6089a7"
+  },
+  "talks.qmd": {
+    "talks.html": "4e22bc1e"
+  },
+  "index.qmd": {
+    "index.html": "89a04408"
+  },
+  "publications.qmd": {
+    "publications.html": "e34b748e"
+  },
+  "cv.qmd": {
+    "cv.html": "73d6c720"
+  }
+}

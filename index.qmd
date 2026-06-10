@@ -1,0 +1,32 @@
+---
+title: "Ajay Dev"
+---
+
+# Ajay Dev
+
+**Astrophysicist | Galaxy evolution | Baryons in dark matter haloes | Radio 21-cm | Optical | X-ray **
+
+I am an astrophysicist studying how baryons populate dark matter haloes across cosmic time. My research combines radio, optical, and X-ray observations to measure the cold gas, stellar, and hot gas content of galaxies and galaxy groups, with the broader aim of understanding where the baryons in the Universe reside.
+
+I recently completed my PhD research at the International Centre for Radio Astronomy Research, University of Western Australia. My work focuses on the connection between galaxies and their host dark matter haloes using large astronomical surveys including GAMA, ALFALFA, ASKAP-DINGO, WALLABY, WAVES, and eROSITA.
+
+## Research interests
+
+- Neutral hydrogen in galaxies and galaxy groups
+- The HI--halo mass relation
+- Galaxy evolution across environment and cosmic time
+- Baryon fractions in dark matter haloes
+- Radio spectral-line stacking
+- Multi-wavelength surveys of stars, cold gas, and hot gas
+
+## Current focus
+
+My current research aims to extend measurements of the baryonic content of dark matter haloes beyond the local Universe using next-generation radio, optical, and X-ray surveys. This includes measuring the evolution of the HI--halo mass relation and combining neutral hydrogen measurements with stellar and hot gas tracers to build a more complete census of baryons in haloes.
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
+- [NASA ADS](https://ui.adsabs.harvard.edu/)
+- [GitHub](https://github.com/)
+- [Email](mailto:ajay.dev@research.uwa.edu.au)

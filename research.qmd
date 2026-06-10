@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research focuses on the baryonic content of dark matter haloes and its evolution across cosmic time. I use multi-wavelength observations to connect the cold gas, stellar, and hot gas components of galaxies and galaxy groups to their underlying halo populations.
+
+## Neutral hydrogen and dark matter haloes
+
+Neutral atomic hydrogen is a key tracer of the cold gas reservoir available for future star formation. A major part of my work is measuring how HI content depends on halo mass, environment, and galaxy type.
+
+Using HI spectral stacking, I measure average HI masses for galaxies and groups that are often too faint to detect individually. This allows the HI--halo mass relation to be constrained over a broad range of halo masses.
+
+## Baryon census of haloes
+
+A central question in galaxy evolution is how the cosmic baryon budget is distributed among stars, cold gas, hot gas, and diffuse material outside haloes. My work combines empirical scaling relations for stellar mass, HI mass, and X-ray gas mass to estimate the baryonic content of haloes at low redshift.
+
+## Future directions
+
+My future research aims to extend these measurements to intermediate redshifts using surveys such as ASKAP-DINGO, WALLABY, MeerKAT HI surveys, WAVES, DEVILS, and eROSITA.

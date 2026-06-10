@@ -1,0 +1,34 @@
+---
+title: "CV"
+---
+
+# CV
+
+A PDF version of my CV is available here:
+
+[Download CV](files/Ajay_Dev_CV.pdf)
+
+## Education
+
+**PhD in Astrophysics**  
+International Centre for Radio Astronomy Research, University of Western Australia  
+
+Thesis: *Baryons in dark matter haloes from multi-wavelength surveys*
+
+## Research experience
+
+**PhD Researcher**  
+International Centre for Radio Astronomy Research, University of Western Australia
+
+- Measured the neutral hydrogen content of galaxy groups using spectral stacking.
+- Developed empirical scaling relations connecting HI, stellar, and hot gas mass to halo mass.
+- Combined radio, optical, and X-ray surveys to study the baryon content of dark matter haloes.
+
+## Skills
+
+- Radio spectral-line analysis
+- HI stacking
+- Galaxy group catalogues
+- Multi-wavelength survey analysis
+- R, Python, Bash
+- ASKAP, ALFALFA, GAMA, WAVES, eROSITA

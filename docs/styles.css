@@ -1,0 +1,27 @@
+body {
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+}
+
+.research-card {
+  border-left: 4px solid #1f4e79;
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.small-note {
+  color: #555;
+  font-size: 0.95rem;
+}
