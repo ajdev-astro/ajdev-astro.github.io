@@ -65,86 +65,86 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks and Seminars",
+    "title": "Ajay Dev",
     "section": "",
-    "text": "UTFSM, Valparaiso, Chile, 2026\nUDP, Santiago, Chile, 2026\nESO, Santiago, Chile, 2026\nMacquarie University, Sydney, ASA ECR Talk, 2026\nHamburg Observatory, Germany, 2025\nArgelander Institute for Astronomy, Germany, 2025\nNRC Herzberg Astronomy and Astrophysics Research Centre, Canada, 2025\nUniversity of Victoria, Canada, 2025\nCanadian Institute for Theoretical Astrophysics, Canada, 2025\nESO Munich Galaxy Evolution Coffee, Germany, 2024\n\n\n\n\n\nMultiphase, Multi-temperature and Complex, Olbia, Italy, 2025\nCosmic Ecosystems, Perimeter Institute, Canada, 2025\nAstronomical Society of Australia Annual Meeting, Adelaide, 2025\nMIAPbP Workshop: Some Like it Hot, Munich, Germany, 2024\nAAL/eROSITA Workshop, online, 2024\nA Journey through Galactic Environments, Porto Ercole, Italy, 2023\nASTRO3D Annual Conference, Fremantle, Australia, 2023\nACAMAR HI Conference, Perth, Australia, 2023\nAstronomical Society of Australia Annual Meeting, Sydney, 2023"
+    "text": "UTFSM, Valparaiso, Chile, 2026\nUDP, Santiago, Chile, 2026\nESO, Santiago, Chile, 2026\nMacquarie University, Sydney, ASA ECR Talk, 2026\nHamburg Observatory, Germany, 2025\nArgelander Institute for Astronomy, Germany, 2025\nNRC Herzberg Astronomy and Astrophysics Research Centre, Canada, 2025\nUniversity of Victoria, Canada, 2025\nCanadian Institute for Theoretical Astrophysics, Canada, 2025\nESO Munich Galaxy Evolution Coffee, Germany, 2024"
   },
   {
     "objectID": "talks.html#seminars",
     "href": "talks.html#seminars",
-    "title": "Talks and Seminars",
+    "title": "Ajay Dev",
     "section": "",
     "text": "UTFSM, Valparaiso, Chile, 2026\nUDP, Santiago, Chile, 2026\nESO, Santiago, Chile, 2026\nMacquarie University, Sydney, ASA ECR Talk, 2026\nHamburg Observatory, Germany, 2025\nArgelander Institute for Astronomy, Germany, 2025\nNRC Herzberg Astronomy and Astrophysics Research Centre, Canada, 2025\nUniversity of Victoria, Canada, 2025\nCanadian Institute for Theoretical Astrophysics, Canada, 2025\nESO Munich Galaxy Evolution Coffee, Germany, 2024"
   },
   {
     "objectID": "talks.html#conference-talks",
     "href": "talks.html#conference-talks",
-    "title": "Talks and Seminars",
-    "section": "",
-    "text": "Multiphase, Multi-temperature and Complex, Olbia, Italy, 2025\nCosmic Ecosystems, Perimeter Institute, Canada, 2025\nAstronomical Society of Australia Annual Meeting, Adelaide, 2025\nMIAPbP Workshop: Some Like it Hot, Munich, Germany, 2024\nAAL/eROSITA Workshop, online, 2024\nA Journey through Galactic Environments, Porto Ercole, Italy, 2023\nASTRO3D Annual Conference, Fremantle, Australia, 2023\nACAMAR HI Conference, Perth, Australia, 2023\nAstronomical Society of Australia Annual Meeting, Sydney, 2023"
+    "title": "Ajay Dev",
+    "section": "Conference talks",
+    "text": "Conference talks\n\nMultiphase, Multi-temperature and Complex, Olbia, Italy, 2025\nCosmic Ecosystems, Perimeter Institute, Canada, 2025\nAstronomical Society of Australia Annual Meeting, Adelaide, 2025\nMIAPbP Workshop: Some Like it Hot, Munich, Germany, 2024\nAAL/eROSITA Workshop, online, 2024\nA Journey through Galactic Environments, Porto Ercole, Italy, 2023\nASTRO3D Annual Conference, Fremantle, Australia, 2023\nACAMAR HI Conference, Perth, Australia, 2023\nAstronomical Society of Australia Annual Meeting, Sydney, 2023"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on the baryonic content of dark matter haloes and its evolution across cosmic time. I use multi-wavelength observations to connect the cold gas, stellar, and hot gas components of galaxies and galaxy groups to their underlying halo populations.\n\n\nNeutral atomic hydrogen is a key tracer of the cold gas reservoir available for future star formation. A major part of my work is measuring how HI content depends on halo mass, environment, and galaxy type.\nUsing HI spectral stacking, I measure average HI masses for galaxies and groups that are often too faint to detect individually. This allows the HI–halo mass relation to be constrained over a broad range of halo masses.\n\n\n\nA central question in galaxy evolution is how the cosmic baryon budget is distributed among stars, cold gas, hot gas, and diffuse material outside haloes. My work combines empirical scaling relations for stellar mass, HI mass, and X-ray gas mass to estimate the baryonic content of haloes at low redshift.\n\n\n\nMy future research aims to extend these measurements to intermediate redshifts using surveys such as ASKAP-DINGO, WALLABY, MeerKAT HI surveys, WAVES, DEVILS, and eROSITA."
+    "text": "My research focuses on the baryonic content of dark matter haloes and its evolution across cosmic time. I use multi-wavelength observations to connect the cold gas, stellar, and hot gas components of galaxies and galaxy groups to their underlying halo populations."
   },
   {
     "objectID": "research.html#neutral-hydrogen-and-dark-matter-haloes",
     "href": "research.html#neutral-hydrogen-and-dark-matter-haloes",
     "title": "Research",
-    "section": "",
-    "text": "Neutral atomic hydrogen is a key tracer of the cold gas reservoir available for future star formation. A major part of my work is measuring how HI content depends on halo mass, environment, and galaxy type.\nUsing HI spectral stacking, I measure average HI masses for galaxies and groups that are often too faint to detect individually. This allows the HI–halo mass relation to be constrained over a broad range of halo masses."
+    "section": "Neutral hydrogen and dark matter haloes",
+    "text": "Neutral hydrogen and dark matter haloes\nNeutral atomic hydrogen is a key tracer of the cold gas reservoir available for future star formation. A major part of my work is measuring how HI content depends on halo mass, environment, and galaxy type.\nUsing HI spectral stacking, I measure average HI masses for galaxies and groups that are often too faint to detect individually. This allows the HI–halo mass relation to be constrained over a broad range of halo masses."
   },
   {
     "objectID": "research.html#baryon-census-of-haloes",
     "href": "research.html#baryon-census-of-haloes",
     "title": "Research",
-    "section": "",
-    "text": "A central question in galaxy evolution is how the cosmic baryon budget is distributed among stars, cold gas, hot gas, and diffuse material outside haloes. My work combines empirical scaling relations for stellar mass, HI mass, and X-ray gas mass to estimate the baryonic content of haloes at low redshift."
+    "section": "Baryon census of haloes",
+    "text": "Baryon census of haloes\nA central question in galaxy evolution is how the cosmic baryon budget is distributed among stars, cold gas, hot gas, and diffuse material outside haloes. My work combines empirical scaling relations for stellar mass, HI mass, and X-ray gas mass to estimate the baryonic content of haloes at low redshift."
   },
   {
     "objectID": "research.html#future-directions",
     "href": "research.html#future-directions",
     "title": "Research",
-    "section": "",
-    "text": "My future research aims to extend these measurements to intermediate redshifts using surveys such as ASKAP-DINGO, WALLABY, MeerKAT HI surveys, WAVES, DEVILS, and eROSITA."
+    "section": "Future directions",
+    "text": "Future directions\nMy future research aims to extend these measurements to intermediate redshifts using surveys such as ASKAP-DINGO, WALLABY, MeerKAT HI surveys, WAVES, DEVILS, and eROSITA."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching & Outreach",
     "section": "",
-    "text": "I am interested in communicating astronomy and astrophysics to both specialist and non-specialist audiences.\n\n\nAdd tutoring, demonstrations, workshops, or university teaching here.\n\n\n\nAdd public talks, outreach events, school visits, or media contributions here."
+    "text": "I am interested in communicating astronomy and astrophysics to both specialist and non-specialist audiences."
   },
   {
     "objectID": "teaching.html#teaching",
     "href": "teaching.html#teaching",
     "title": "Teaching & Outreach",
-    "section": "",
-    "text": "Add tutoring, demonstrations, workshops, or university teaching here."
+    "section": "Teaching",
+    "text": "Teaching\nAdd tutoring, demonstrations, workshops, or university teaching here."
   },
   {
     "objectID": "teaching.html#outreach",
     "href": "teaching.html#outreach",
     "title": "Teaching & Outreach",
-    "section": "",
-    "text": "Add public talks, outreach events, school visits, or media contributions here."
+    "section": "Outreach",
+    "text": "Outreach\nAdd public talks, outreach events, school visits, or media contributions here."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Ajay Dev\nAstrophysicist\nInternational Centre for Radio Astronomy Research\nUniversity of Western Australia\nEmail: ajay.dev@research.uwa.edu.au\n\n\n\nGoogle Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
+    "text": "Ajay Dev\nAstrophysicist\nInternational Centre for Radio Astronomy Research\nUniversity of Western Australia\nEmail: ajay.dev@research.uwa.edu.au"
   },
   {
     "objectID": "contact.html#online-profiles",
     "href": "contact.html#online-profiles",
     "title": "Contact",
-    "section": "",
-    "text": "Google Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
+    "section": "Online profiles",
+    "text": "Online profiles\n\nGoogle Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
   },
   {
     "objectID": "commands-notes.html",
@@ -186,7 +186,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Dev, A., et al.\nThe HI content of galaxy groups and its connection to dark matter haloes.\nMNRAS, 2023.\nDev, A., et al.\nA multi-wavelength census of baryons in dark matter haloes at low redshift.\n\n\n\nDev, A., et al.\nThe HI–halo mass relation from ASKAP-DINGO spectral stacking.\nIn preparation / under revision.\n\n\n\n\n\nNASA ADS\nGoogle Scholar"
+    "text": "Dev, A., et al.\nThe HI content of galaxy groups and its connection to dark matter haloes.\nMNRAS, 2023.\nDev, A., et al.\nA multi-wavelength census of baryons in dark matter haloes at low redshift.\n\n\n\nDev, A., et al.\nThe HI–halo mass relation from ASKAP-DINGO spectral stacking.\nIn preparation / under revision."
   },
   {
     "objectID": "publications.html#first-author-papers",
@@ -199,7 +199,7 @@
     "objectID": "publications.html#full-publication-list",
     "href": "publications.html#full-publication-list",
     "title": "Publications",
-    "section": "",
-    "text": "NASA ADS\nGoogle Scholar"
+    "section": "Full publication list",
+    "text": "Full publication list\n\nNASA ADS\nGoogle Scholar"
   }
 ]

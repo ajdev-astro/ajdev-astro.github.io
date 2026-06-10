@@ -2,8 +2,6 @@
 #title: "Talks"
 ---
 
-# Talks and Seminars
-
 ## Seminars
 
 - UTFSM, Valparaiso, Chile, 2026

@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
-
 **Ajay Dev**  
 Astrophysicist  
 International Centre for Radio Astronomy Research  

@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-# Research
-
 My research focuses on the baryonic content of dark matter haloes and its evolution across cosmic time. I use multi-wavelength observations to connect the cold gas, stellar, and hot gas components of galaxies and galaxy groups to their underlying halo populations.
 
 ## Neutral hydrogen and dark matter haloes
