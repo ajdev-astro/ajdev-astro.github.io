@@ -1,32 +1,63 @@
 ---
-title: "Ajay Dev"
+title: "Home"
+about:
+  template: jolla
+  image: images/ajay_4most.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ajay.dev@research.uwa.edu.au
+    - icon: github
+      text: GitHub
+      href: https://github.com/ajdev-astro
+    #- icon: google
+    #  text: Google Scholar
+    #  href: YOUR_GOOGLE_SCHOLAR_LINK
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-1655-8178
 ---
+
+---
+
+title: "Home"
+about:
+template: jolla
+image: images/profile.jpg
+links:
+- icon: envelope
+text: Email
+href: mailto:ajay[.dev@research.uwa.edu.au](mailto:.dev@research.uwa.edu.au)
+- icon: github
+text: GitHub
+href: https://github.com/ajdev-astro
+- icon: google
+text: Google Scholar
+href: YOUR_GOOGLE_SCHOLAR_LINK
+- icon: person-badge
+text: ORCID
+href: YOUR_ORCID_LINK
+---------------------
 
 # Ajay Dev
 
-**Astrophysicist | Galaxy evolution | Baryons in dark matter haloes | Radio 21-cm | Optical | X-ray **
+**Astrophysicist | Galaxy evolution | Galaxy--halo connection | Baryons in dark matter haloes**
 
-I am an astrophysicist studying how baryons populate dark matter haloes across cosmic time. My research combines radio, optical, and X-ray observations to measure the cold gas, stellar, and hot gas content of galaxies and galaxy groups, with the broader aim of understanding where the baryons in the Universe reside.
+I am an astrophysicist at the International Centre for Radio Astronomy Research, University of Western Australia. My research focuses on galaxy formation and evolution, the galaxy--halo connection, and the baryonic content of dark matter haloes.
 
-I recently completed my PhD research at the International Centre for Radio Astronomy Research, University of Western Australia. My work focuses on the connection between galaxies and their host dark matter haloes using large astronomical surveys including GAMA, ALFALFA, ASKAP-DINGO, WALLABY, WAVES, and eROSITA.
+I use multi-wavelength observations to study how stars, neutral hydrogen, and hot X-ray gas populate galaxies and galaxy groups. My work combines large extragalactic surveys including GAMA, ASKAP/DINGO, ASKAP/WALLABY, eROSITA, DEVILS, 4MOST/WAVES, and 4MOST/4HS.
 
 ## Research interests
 
-- Neutral hydrogen in galaxies and galaxy groups
-- The HI--halo mass relation
-- Galaxy evolution across environment and cosmic time
-- Baryon fractions in dark matter haloes
-- Radio spectral-line stacking
-- Multi-wavelength surveys of stars, cold gas, and hot gas
+* Galaxy formation and evolution
+* Galaxy--halo connection
+* Baryon census of dark matter haloes
+* Multi-phase gas in galaxies and groups
+* HI and X-ray stacking
+* Large extragalactic surveys
+* Feedback and gas accretion in galaxies
+* AGN--galaxy coevolution
 
 ## Current focus
 
-My current research aims to extend measurements of the baryonic content of dark matter haloes beyond the local Universe using next-generation radio, optical, and X-ray surveys. This includes measuring the evolution of the HI--halo mass relation and combining neutral hydrogen measurements with stellar and hot gas tracers to build a more complete census of baryons in haloes.
-
-## Links
-
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/)
-- [NASA ADS](https://ui.adsabs.harvard.edu/)
-- [GitHub](https://github.com/)
-- [Email](mailto:ajay.dev@research.uwa.edu.au)
+My current research aims to map the cold gas, hot gas, and stellar content of dark matter haloes across halo mass, environment, and cosmic time. This includes measuring the HI--halo mass relation using spectral stacking and combining radio, optical, and X-ray measurements to build a multi-wavelength census of baryons in the Universe.

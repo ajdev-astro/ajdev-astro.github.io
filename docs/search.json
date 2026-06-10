@@ -4,70 +4,84 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "A PDF version of my CV is available here:\nDownload CV\n\n\nPhD in Astrophysics\nInternational Centre for Radio Astronomy Research, University of Western Australia\nThesis: Baryons in dark matter haloes from multi-wavelength surveys\n\n\n\nPhD Researcher\nInternational Centre for Radio Astronomy Research, University of Western Australia\n\nMeasured the neutral hydrogen content of galaxy groups using spectral stacking.\nDeveloped empirical scaling relations connecting HI, stellar, and hot gas mass to halo mass.\nCombined radio, optical, and X-ray surveys to study the baryon content of dark matter haloes.\n\n\n\n\n\nRadio spectral-line analysis\nHI stacking\nGalaxy group catalogues\nMulti-wavelength survey analysis\nR, Python, Bash\nASKAP, ALFALFA, GAMA, WAVES, eROSITA"
+    "text": "A PDF version of my CV is available here:\nDownload CV"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
-    "section": "",
-    "text": "PhD in Astrophysics\nInternational Centre for Radio Astronomy Research, University of Western Australia\nThesis: Baryons in dark matter haloes from multi-wavelength surveys"
+    "section": "Education",
+    "text": "Education\nPhD in Astrophysics\nInternational Centre for Radio Astronomy Research, University of Western Australia, Perth, Australia\n2022–2026\nThesis: Hot Gas, Cold Gas, and Stars: Mapping the Halo Baryon Budget in the Local Universe\nSupervisors: Prof. Simon Driver and Dr. Martin Meyer\nIntegrated Master of Science in Physics\nNational Institute of Science Education and Research, Bhubaneswar, India\n2016–2021\nThesis: Detection of WHIM between cluster pairs using the SZ Effect\nDST-INSPIRE Fellow, Government of India"
   },
   {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
+    "objectID": "cv.html#academic-honours",
+    "href": "cv.html#academic-honours",
     "title": "CV",
-    "section": "",
-    "text": "PhD Researcher\nInternational Centre for Radio Astronomy Research, University of Western Australia\n\nMeasured the neutral hydrogen content of galaxy groups using spectral stacking.\nDeveloped empirical scaling relations connecting HI, stellar, and hot gas mass to halo mass.\nCombined radio, optical, and X-ray surveys to study the baryon content of dark matter haloes."
+    "section": "Academic honours",
+    "text": "Academic honours\n\nBest Talk, 2nd Place, Astronomical Society of Australia Annual Scientific Meeting, 2025\nPhD Scholarship, University of Western Australia, 2022–2025\nDST-INSPIRE Fellowship, Department of Science and Technology, Government of India, 2016–2021\nAcademic Excellence Award, NISER Bhubaneswar, 2016–2017"
   },
   {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
+    "objectID": "cv.html#survey-memberships",
+    "href": "cv.html#survey-memberships",
     "title": "CV",
-    "section": "",
-    "text": "Radio spectral-line analysis\nHI stacking\nGalaxy group catalogues\nMulti-wavelength survey analysis\nR, Python, Bash\nASKAP, ALFALFA, GAMA, WAVES, eROSITA"
+    "section": "Survey memberships",
+    "text": "Survey memberships\nGAMA, DEVILS, 4MOST/WAVES, 4MOST/4HS, ASKAP/DINGO, ASKAP/WALLABY, ASKAP/EMU, EMPOWER"
+  },
+  {
+    "objectID": "cv.html#observing-and-computing-experience",
+    "href": "cv.html#observing-and-computing-experience",
+    "title": "CV",
+    "section": "Observing and computing experience",
+    "text": "Observing and computing experience\n\nCo-I, EMPOWER Survey, VLT/KMOS, 150 hours\nESO VISTA Telescope, 4MOST observing, 10 nights, Paranal, Chile\nBlanco Telescope, DECam, 2 nights, remote observing\nGMRT, 1 night\nCo-I, Pawsey Merit Allocation Scheme, 1M CPU hours\nR, Python, Bash, and high-performance computing"
+  },
+  {
+    "objectID": "cv.html#community-and-outreach",
+    "href": "cv.html#community-and-outreach",
+    "title": "CV",
+    "section": "Community and outreach",
+    "text": "Community and outreach\n\nOrganiser, Journal Club, 2022–2024\nVolunteer, ICRAR night sky and public outreach events, 2022–2024\nVolunteer, ASTROFEST, 2022 and 2024\nNight-sky observing session, 2 Rocks Primary School, 2023\nNISER Astronomy Club outreach events, 2016–2021"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ajay Dev",
+    "title": "Home",
     "section": "",
-    "text": "Astrophysicist | Galaxy evolution | Baryons in dark matter haloes | Radio 21-cm | Optical | X-ray \nI am an astrophysicist studying how baryons populate dark matter haloes across cosmic time. My research combines radio, optical, and X-ray observations to measure the cold gas, stellar, and hot gas content of galaxies and galaxy groups, with the broader aim of understanding where the baryons in the Universe reside.\nI recently completed my PhD research at the International Centre for Radio Astronomy Research, University of Western Australia. My work focuses on the connection between galaxies and their host dark matter haloes using large astronomical surveys including GAMA, ALFALFA, ASKAP-DINGO, WALLABY, WAVES, and eROSITA.\n\n\n\nNeutral hydrogen in galaxies and galaxy groups\nThe HI–halo mass relation\nGalaxy evolution across environment and cosmic time\nBaryon fractions in dark matter haloes\nRadio spectral-line stacking\nMulti-wavelength surveys of stars, cold gas, and hot gas\n\n\n\n\nMy current research aims to extend measurements of the baryonic content of dark matter haloes beyond the local Universe using next-generation radio, optical, and X-ray surveys. This includes measuring the evolution of the HI–halo mass relation and combining neutral hydrogen measurements with stellar and hot gas tracers to build a more complete census of baryons in haloes.\n\n\n\n\nGoogle Scholar\nORCID\nNASA ADS\nGitHub\nEmail"
+    "text": "title: “Home” about: template: jolla image: images/profile.jpg links: - icon: envelope text: Email href: mailto:ajay.dev@research.uwa.edu.au - icon: github text: GitHub href: https://github.com/ajdev-astro - icon: google text: Google Scholar href: YOUR_GOOGLE_SCHOLAR_LINK - icon: person-badge text: ORCID href: YOUR_ORCID_LINK ———————"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Ajay Dev",
-    "section": "",
-    "text": "Neutral hydrogen in galaxies and galaxy groups\nThe HI–halo mass relation\nGalaxy evolution across environment and cosmic time\nBaryon fractions in dark matter haloes\nRadio spectral-line stacking\nMulti-wavelength surveys of stars, cold gas, and hot gas"
+    "title": "Home",
+    "section": "Research interests",
+    "text": "Research interests\n\nGalaxy formation and evolution\nGalaxy–halo connection\nBaryon census of dark matter haloes\nMulti-phase gas in galaxies and groups\nHI and X-ray stacking\nLarge extragalactic surveys\nFeedback and gas accretion in galaxies\nAGN–galaxy coevolution"
   },
   {
     "objectID": "index.html#current-focus",
     "href": "index.html#current-focus",
-    "title": "Ajay Dev",
-    "section": "",
-    "text": "My current research aims to extend measurements of the baryonic content of dark matter haloes beyond the local Universe using next-generation radio, optical, and X-ray surveys. This includes measuring the evolution of the HI–halo mass relation and combining neutral hydrogen measurements with stellar and hot gas tracers to build a more complete census of baryons in haloes."
-  },
-  {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Ajay Dev",
-    "section": "",
-    "text": "Google Scholar\nORCID\nNASA ADS\nGitHub\nEmail"
+    "title": "Home",
+    "section": "Current focus",
+    "text": "Current focus\nMy current research aims to map the cold gas, hot gas, and stellar content of dark matter haloes across halo mass, environment, and cosmic time. This includes measuring the HI–halo mass relation using spectral stacking and combining radio, optical, and X-ray measurements to build a multi-wavelength census of baryons in the Universe."
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks",
+    "title": "Talks and Seminars",
     "section": "",
-    "text": "Add talks here in reverse chronological order.\nExample:\nTitle of talk\nInstitute / Conference, Location\nMonth Year"
+    "text": "UTFSM, Valparaiso, Chile, 2026\nUDP, Santiago, Chile, 2026\nESO, Santiago, Chile, 2026\nMacquarie University, Sydney, ASA ECR Talk, 2026\nHamburg Observatory, Germany, 2025\nArgelander Institute for Astronomy, Germany, 2025\nNRC Herzberg Astronomy and Astrophysics Research Centre, Canada, 2025\nUniversity of Victoria, Canada, 2025\nCanadian Institute for Theoretical Astrophysics, Canada, 2025\nESO Munich Galaxy Evolution Coffee, Germany, 2024\n\n\n\n\n\nMultiphase, Multi-temperature and Complex, Olbia, Italy, 2025\nCosmic Ecosystems, Perimeter Institute, Canada, 2025\nAstronomical Society of Australia Annual Meeting, Adelaide, 2025\nMIAPbP Workshop: Some Like it Hot, Munich, Germany, 2024\nAAL/eROSITA Workshop, online, 2024\nA Journey through Galactic Environments, Porto Ercole, Italy, 2023\nASTRO3D Annual Conference, Fremantle, Australia, 2023\nACAMAR HI Conference, Perth, Australia, 2023\nAstronomical Society of Australia Annual Meeting, Sydney, 2023"
   },
   {
-    "objectID": "talks.html#invited-and-contributed-talks",
-    "href": "talks.html#invited-and-contributed-talks",
-    "title": "Talks",
+    "objectID": "talks.html#seminars",
+    "href": "talks.html#seminars",
+    "title": "Talks and Seminars",
     "section": "",
-    "text": "Add talks here in reverse chronological order.\nExample:\nTitle of talk\nInstitute / Conference, Location\nMonth Year"
+    "text": "UTFSM, Valparaiso, Chile, 2026\nUDP, Santiago, Chile, 2026\nESO, Santiago, Chile, 2026\nMacquarie University, Sydney, ASA ECR Talk, 2026\nHamburg Observatory, Germany, 2025\nArgelander Institute for Astronomy, Germany, 2025\nNRC Herzberg Astronomy and Astrophysics Research Centre, Canada, 2025\nUniversity of Victoria, Canada, 2025\nCanadian Institute for Theoretical Astrophysics, Canada, 2025\nESO Munich Galaxy Evolution Coffee, Germany, 2024"
+  },
+  {
+    "objectID": "talks.html#conference-talks",
+    "href": "talks.html#conference-talks",
+    "title": "Talks and Seminars",
+    "section": "",
+    "text": "Multiphase, Multi-temperature and Complex, Olbia, Italy, 2025\nCosmic Ecosystems, Perimeter Institute, Canada, 2025\nAstronomical Society of Australia Annual Meeting, Adelaide, 2025\nMIAPbP Workshop: Some Like it Hot, Munich, Germany, 2024\nAAL/eROSITA Workshop, online, 2024\nA Journey through Galactic Environments, Porto Ercole, Italy, 2023\nASTRO3D Annual Conference, Fremantle, Australia, 2023\nACAMAR HI Conference, Perth, Australia, 2023\nAstronomical Society of Australia Annual Meeting, Sydney, 2023"
   },
   {
     "objectID": "research.html",

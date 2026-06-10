@@ -2,33 +2,50 @@
 title: "CV"
 ---
 
-# CV
-
 A PDF version of my CV is available here:
 
-[Download CV](files/CV - Ajay Dev.pdf)
+[Download CV](files/Ajay_Dev_CV.pdf)
 
 ## Education
 
 **PhD in Astrophysics**  
-International Centre for Radio Astronomy Research, University of Western Australia  
+International Centre for Radio Astronomy Research, University of Western Australia, Perth, Australia  
+2022--2026  
 
-Thesis: *Baryons in dark matter haloes from multi-wavelength surveys*
+Thesis: *Hot Gas, Cold Gas, and Stars: Mapping the Halo Baryon Budget in the Local Universe*  
+Supervisors: Prof. Simon Driver and Dr. Martin Meyer
 
-## Research experience
+**Integrated Master of Science in Physics**  
+National Institute of Science Education and Research, Bhubaneswar, India  
+2016--2021  
 
-**PhD Researcher**  
-International Centre for Radio Astronomy Research, University of Western Australia
+Thesis: *Detection of WHIM between cluster pairs using the SZ Effect*  
+DST-INSPIRE Fellow, Government of India
 
-- Measured the neutral hydrogen content of galaxy groups using spectral stacking.
-- Developed empirical scaling relations connecting HI, stellar, and hot gas mass to halo mass.
-- Combined radio, optical, and X-ray surveys to study the baryon content of dark matter haloes.
+## Academic honours
 
-## Skills
+- Best Talk, 2nd Place, Astronomical Society of Australia Annual Scientific Meeting, 2025
+- PhD Scholarship, University of Western Australia, 2022--2025
+- DST-INSPIRE Fellowship, Department of Science and Technology, Government of India, 2016--2021
+- Academic Excellence Award, NISER Bhubaneswar, 2016--2017
 
-- Radio spectral-line analysis
-- HI stacking
-- Galaxy group catalogues
-- Multi-wavelength survey analysis
-- R, Python, Bash
-- ASKAP, ALFALFA, GAMA, WAVES, eROSITA
+## Survey memberships
+
+GAMA, DEVILS, 4MOST/WAVES, 4MOST/4HS, ASKAP/DINGO, ASKAP/WALLABY, ASKAP/EMU, EMPOWER
+
+## Observing and computing experience
+
+- Co-I, EMPOWER Survey, VLT/KMOS, 150 hours
+- ESO VISTA Telescope, 4MOST observing, 10 nights, Paranal, Chile
+- Blanco Telescope, DECam, 2 nights, remote observing
+- GMRT, 1 night
+- Co-I, Pawsey Merit Allocation Scheme, 1M CPU hours
+- R, Python, Bash, and high-performance computing
+
+## Community and outreach
+
+- Organiser, Journal Club, 2022--2024
+- Volunteer, ICRAR night sky and public outreach events, 2022--2024
+- Volunteer, ASTROFEST, 2022 and 2024
+- Night-sky observing session, 2 Rocks Primary School, 2023
+- NISER Astronomy Club outreach events, 2016--2021

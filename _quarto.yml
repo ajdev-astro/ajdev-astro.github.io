@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Ajay Dev"
+  page-footer:
+    left: "© 2026 Ajay Dev"
+    right: "Built with Quarto and GitHub Pages"
   navbar:
     right:
       - text: "Home"

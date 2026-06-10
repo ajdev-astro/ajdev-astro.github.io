@@ -1,16 +1,30 @@
 ---
-title: "Talks"
+#title: "Talks"
 ---
 
-# Talks
+# Talks and Seminars
 
-## Invited and contributed talks
+## Seminars
 
-Add talks here in reverse chronological order.
+- UTFSM, Valparaiso, Chile, 2026
+- UDP, Santiago, Chile, 2026
+- ESO, Santiago, Chile, 2026
+- Macquarie University, Sydney, ASA ECR Talk, 2026
+- Hamburg Observatory, Germany, 2025
+- Argelander Institute for Astronomy, Germany, 2025
+- NRC Herzberg Astronomy and Astrophysics Research Centre, Canada, 2025
+- University of Victoria, Canada, 2025
+- Canadian Institute for Theoretical Astrophysics, Canada, 2025
+- ESO Munich Galaxy Evolution Coffee, Germany, 2024
 
-Example:
+## Conference talks
 
-**Title of talk**  
-Institute / Conference, Location  
-Month Year
-
+- Multiphase, Multi-temperature and Complex, Olbia, Italy, 2025
+- Cosmic Ecosystems, Perimeter Institute, Canada, 2025
+- Astronomical Society of Australia Annual Meeting, Adelaide, 2025
+- MIAPbP Workshop: Some Like it Hot, Munich, Germany, 2024
+- AAL/eROSITA Workshop, online, 2024
+- A Journey through Galactic Environments, Porto Ercole, Italy, 2023
+- ASTRO3D Annual Conference, Fremantle, Australia, 2023
+- ACAMAR HI Conference, Perth, Australia, 2023
+- Astronomical Society of Australia Annual Meeting, Sydney, 2023
