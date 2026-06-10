@@ -2,20 +2,63 @@
 title: "Publications"
 ---
 
-## First-author papers
+A complete and up-to-date publication list is available through my [NASA ADS library](https://ui.adsabs.harvard.edu/public-libraries/Kd0naFpJRmOKefCsweQ8kQ).
 
-1. **Dev, A.**, et al.  
-   *The HI content of galaxy groups and its connection to dark matter haloes.*  
-   MNRAS, 2023.
+## First-author publications
 
-2. **Dev, A.**, et al.  
-   *A multi-wavelength census of baryons in dark matter haloes at low redshift.*  
-   2024.
+**Dev, A.**, Meyer, M. J., Driver, S. P., Rhee, J., Nulsen, P., Westmeier, T., et al.  
+*DINGO/GAMA/WAVES: HI--Halo Mass Relation.*  
+Monthly Notices of the Royal Astronomical Society, 2026.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag826D)
 
-3. **Dev, A.**, et al.  
-   *The HI--halo mass relation from ASKAP-DINGO spectral stacking.*  
-   In preparation / under revision.
+**Dev, A.**, Driver, S. P., Meyer, M. J., Robotham, A., Obreschkow, D., Popesso, P., & Comparat, J.  
+*The baryon census and the mass-density of stars, neutral gas, and hot gas as a function of halo mass.*  
+Monthly Notices of the Royal Astronomical Society, 535, 2357--2374, 2024.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.535.2357D)
 
-## Full publication list
+**Dev, A.**, Driver, S. P., Meyer, M. J., Roychowdhury, S., Rhee, J., Stevens, A. R. H., Lagos, C. D. P., et al.  
+*Galaxy And Mass Assembly (GAMA): The group HI mass as a function of halo mass.*  
+Monthly Notices of the Royal Astronomical Society, 523, 2693--2709, 2023.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.523.2693D)
 
-- [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/Kd0naFpJRmOKefCsweQ8kQ)
+## Selected co-author publications
+
+**Toptun, V.**, Popesso, P., Marini, I., Dolag, K., Lamer, G., Yang, X., Li, Q., Csizi, B., Lovisari, L., Ettori, S., Biffi, V., Vladutescu-Zopp, S., **Dev, A.**, et al.  
+*The eROSITA view on the halo mass--temperature relation: From low-mass groups to massive clusters.*  
+Astronomy & Astrophysics, 700, A167, 2025.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2025A&A...700A.167T)
+
+**Marini, I.**, Popesso, P., Dolag, K., Biffi, V., Vladutescu-Zopp, S., Castro, T., Toptun, V., de Isídio, N., **Dev, A.**, et al.  
+*The impact of assembly history on the X-ray detectability of halos: From galaxy groups to galaxy clusters.*  
+Astronomy & Astrophysics, 698, A191, 2025.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2025A&A...698A.191M)
+
+**Marini, I.**, Popesso, P., Lamer, G., Dolag, K., Biffi, V., Vladutescu-Zopp, S., **Dev, A.**, et al.  
+*Detecting galaxy groups populating the local Universe in the eROSITA era.*  
+Astronomy & Astrophysics, 689, A7, 2024.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2024A&A...689A...7M)
+
+**Popesso, P.**, Marini, I., Dolag, K., Lamer, G., Csizi, B., Biffi, V., **Dev, A.**, et al.  
+*Average X-ray properties of galaxy groups. From Milky Way-like halos to massive clusters.*  
+arXiv:2411.17120, 2024.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241117120P)
+
+**Popesso, P.**, Biviano, A., Marini, I., Dolag, K., Vladutescu-Zopp, S., Csizi, B., Biffi, V., Lamer, G., **Dev, A.**, et al.  
+*The hot gas mass fraction in halos. From Milky Way-like groups to massive clusters.*  
+arXiv:2411.16555, 2024.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241116555P)
+
+**Popesso, P.**, Marini, I., Dolag, K., Lamer, G., Csizi, B., Vladutescu-Zopp, S., Biffi, V., **Dev, A.**, et al.  
+*The perils of stacking optically selected groups in eROSITA data: The Magneticum perspective.*  
+arXiv:2411.16546, 2024.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241116546P)
+
+**Wagle, G.**, Ray, A., **Dev, A.**, et al.  
+*Type IIP Supernova Progenitors and Their Explodability I: Convective Overshoot, Blue Loops and Surface Composition.*  
+The Astrophysical Journal, 886, 27, 2019.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...886...27W)
+
+**Wagle, G. A.**, Ray, A., **Dev, A.**, & Raghu, A.  
+*VizieR Online Data Catalog: SNe IIP progenitors. I. LMC giant comparison sample (Wagle+, 2019).*  
+VizieR Online Data Catalog, J/ApJ/886/27, 2021.  
+[ADS](https://ui.adsabs.harvard.edu/abs/2021yCat..18860027W)
