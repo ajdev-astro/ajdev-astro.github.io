@@ -46,21 +46,21 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "title: “Home” about: template: jolla image: images/profile.jpg links: - icon: envelope text: Email href: mailto:ajay.dev@research.uwa.edu.au - icon: github text: GitHub href: https://github.com/ajdev-astro - icon: google text: Google Scholar href: YOUR_GOOGLE_SCHOLAR_LINK - icon: person-badge text: ORCID href: YOUR_ORCID_LINK ———————"
+    "text": "Astrophysicist | Galaxy evolution | Galaxy–halo connection | Baryons in dark matter haloes\nI am an astrophysicist at the International Centre for Radio Astronomy Research, University of Western Australia. My research focuses on galaxy formation and evolution, the galaxy–halo connection, and the baryonic content of dark matter haloes.\nI use multi-wavelength observations to study how stars, neutral hydrogen, and hot X-ray gas populate galaxies and galaxy groups. My work combines large extragalactic surveys including GAMA, ASKAP/DINGO, ASKAP/WALLABY, eROSITA, DEVILS, 4MOST/WAVES, and 4MOST/4HS.\n\n\n\nGalaxy formation and evolution\nGalaxy–halo connection\nBaryon census of dark matter haloes\nMulti-phase gas in galaxies and groups\nHI and X-ray stacking\nLarge extragalactic surveys\nFeedback and gas accretion in galaxies\nAGN–galaxy coevolution\n\n\n\n\nMy current research aims to map the cold gas, hot gas, and stellar content of dark matter haloes across halo mass, environment, and cosmic time. This includes measuring the HI–halo mass relation using spectral stacking and combining radio, optical, and X-ray measurements to build a multi-wavelength census of baryons in the Universe."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Home",
-    "section": "Research interests",
-    "text": "Research interests\n\nGalaxy formation and evolution\nGalaxy–halo connection\nBaryon census of dark matter haloes\nMulti-phase gas in galaxies and groups\nHI and X-ray stacking\nLarge extragalactic surveys\nFeedback and gas accretion in galaxies\nAGN–galaxy coevolution"
+    "section": "",
+    "text": "Galaxy formation and evolution\nGalaxy–halo connection\nBaryon census of dark matter haloes\nMulti-phase gas in galaxies and groups\nHI and X-ray stacking\nLarge extragalactic surveys\nFeedback and gas accretion in galaxies\nAGN–galaxy coevolution"
   },
   {
     "objectID": "index.html#current-focus",
     "href": "index.html#current-focus",
     "title": "Home",
-    "section": "Current focus",
-    "text": "Current focus\nMy current research aims to map the cold gas, hot gas, and stellar content of dark matter haloes across halo mass, environment, and cosmic time. This includes measuring the HI–halo mass relation using spectral stacking and combining radio, optical, and X-ray measurements to build a multi-wavelength census of baryons in the Universe."
+    "section": "",
+    "text": "My current research aims to map the cold gas, hot gas, and stellar content of dark matter haloes across halo mass, environment, and cosmic time. This includes measuring the HI–halo mass relation using spectral stacking and combining radio, optical, and X-ray measurements to build a multi-wavelength census of baryons in the Universe."
   },
   {
     "objectID": "talks.html",
