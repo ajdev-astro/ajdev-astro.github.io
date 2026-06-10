@@ -56,39 +56,18 @@
     "text": "Google Scholar\nORCID\nNASA ADS\nGitHub\nEmail"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
     "section": "",
-    "text": "Ajay Dev\nAstrophysicist\nInternational Centre for Radio Astronomy Research\nUniversity of Western Australia\nEmail: ajay.dev@research.uwa.edu.au\n\n\n\nGoogle Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
+    "text": "Add talks here in reverse chronological order.\nExample:\nTitle of talk\nInstitute / Conference, Location\nMonth Year"
   },
   {
-    "objectID": "contact.html#online-profiles",
-    "href": "contact.html#online-profiles",
-    "title": "Contact",
+    "objectID": "talks.html#invited-and-contributed-talks",
+    "href": "talks.html#invited-and-contributed-talks",
+    "title": "Talks",
     "section": "",
-    "text": "Google Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching & Outreach",
-    "section": "",
-    "text": "I am interested in communicating astronomy and astrophysics to both specialist and non-specialist audiences.\n\n\nAdd tutoring, demonstrations, workshops, or university teaching here.\n\n\n\nAdd public talks, outreach events, school visits, or media contributions here."
-  },
-  {
-    "objectID": "teaching.html#teaching",
-    "href": "teaching.html#teaching",
-    "title": "Teaching & Outreach",
-    "section": "",
-    "text": "Add tutoring, demonstrations, workshops, or university teaching here."
-  },
-  {
-    "objectID": "teaching.html#outreach",
-    "href": "teaching.html#outreach",
-    "title": "Teaching & Outreach",
-    "section": "",
-    "text": "Add public talks, outreach events, school visits, or media contributions here."
+    "text": "Add talks here in reverse chronological order.\nExample:\nTitle of talk\nInstitute / Conference, Location\nMonth Year"
   },
   {
     "objectID": "research.html",
@@ -119,18 +98,74 @@
     "text": "My future research aims to extend these measurements to intermediate redshifts using surveys such as ASKAP-DINGO, WALLABY, MeerKAT HI surveys, WAVES, DEVILS, and eROSITA."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Outreach",
     "section": "",
-    "text": "Add talks here in reverse chronological order.\nExample:\nTitle of talk\nInstitute / Conference, Location\nMonth Year"
+    "text": "I am interested in communicating astronomy and astrophysics to both specialist and non-specialist audiences.\n\n\nAdd tutoring, demonstrations, workshops, or university teaching here.\n\n\n\nAdd public talks, outreach events, school visits, or media contributions here."
   },
   {
-    "objectID": "talks.html#invited-and-contributed-talks",
-    "href": "talks.html#invited-and-contributed-talks",
-    "title": "Talks",
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching & Outreach",
     "section": "",
-    "text": "Add talks here in reverse chronological order.\nExample:\nTitle of talk\nInstitute / Conference, Location\nMonth Year"
+    "text": "Add tutoring, demonstrations, workshops, or university teaching here."
+  },
+  {
+    "objectID": "teaching.html#outreach",
+    "href": "teaching.html#outreach",
+    "title": "Teaching & Outreach",
+    "section": "",
+    "text": "Add public talks, outreach events, school visits, or media contributions here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Ajay Dev\nAstrophysicist\nInternational Centre for Radio Astronomy Research\nUniversity of Western Australia\nEmail: ajay.dev@research.uwa.edu.au\n\n\n\nGoogle Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#online-profiles",
+    "href": "contact.html#online-profiles",
+    "title": "Contact",
+    "section": "",
+    "text": "Google Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "commands-notes.html",
+    "href": "commands-notes.html",
+    "title": "My website update commands",
+    "section": "",
+    "text": "quarto render\ngit add .\ngit commit -m \"Update website\"\ngit push\n\n\n\nquarto preview\nStop preview with:\nCtrl + C\n\n\n\ngit status\n\n\n\ngit commit -m \"Update homepage\"\ngit commit -m \"Add CV\"\ngit commit -m \"Add publication links\"\ngit commit -m \"Update research page\""
+  },
+  {
+    "objectID": "commands-notes.html#normal-update",
+    "href": "commands-notes.html#normal-update",
+    "title": "My website update commands",
+    "section": "",
+    "text": "quarto render\ngit add .\ngit commit -m \"Update website\"\ngit push"
+  },
+  {
+    "objectID": "commands-notes.html#preview-before-updating",
+    "href": "commands-notes.html#preview-before-updating",
+    "title": "My website update commands",
+    "section": "",
+    "text": "quarto preview\nStop preview with:\nCtrl + C"
+  },
+  {
+    "objectID": "commands-notes.html#check-changed-files",
+    "href": "commands-notes.html#check-changed-files",
+    "title": "My website update commands",
+    "section": "",
+    "text": "git status"
+  },
+  {
+    "objectID": "commands-notes.html#example-commit-messages",
+    "href": "commands-notes.html#example-commit-messages",
+    "title": "My website update commands",
+    "section": "",
+    "text": "git commit -m \"Update homepage\"\ngit commit -m \"Add CV\"\ngit commit -m \"Add publication links\"\ngit commit -m \"Update research page\""
   },
   {
     "objectID": "publications.html",
