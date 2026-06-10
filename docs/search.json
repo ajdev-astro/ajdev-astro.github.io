@@ -32,7 +32,7 @@
     "href": "cv.html#observing-and-computing-experience",
     "title": "CV",
     "section": "Observing and computing experience",
-    "text": "Observing and computing experience\n\nCo-I, EMPOWER Survey, VLT/KMOS, 150 hours\nESO VISTA Telescope, 4MOST observing, 10 nights, Paranal, Chile\nBlanco Telescope, DECam, 2 nights, remote observing\nGMRT, 1 night\nCo-I, Pawsey Merit Allocation Scheme, 1M CPU hours\nR, Python, Bash, and high-performance computing"
+    "text": "Observing and computing experience\n\n10 nights of observing with 4MOST instrument on VISTA (part of SPV observations) at ESO Paranal Observatory, Chile\nCo-I, EMPOWER Survey, VLT/KMOS, 150 hours\nESO VISTA Telescope, 4MOST observing, 10 nights, Paranal, Chile\nBlanco Telescope, DECam, 2 nights, remote observing\nGMRT, 1 night\nCo-I, Pawsey Merit Allocation Scheme, 1M CPU hours\nR, Python, Bash, and high-performance computing"
   },
   {
     "objectID": "cv.html#community-and-outreach",
@@ -144,7 +144,7 @@
     "href": "contact.html#online-profiles",
     "title": "Contact",
     "section": "Online profiles",
-    "text": "Online profiles\n\nGoogle Scholar\nNASA ADS\nORCID\nGitHub\nLinkedIn"
+    "text": "Online profiles\n\nNASA ADS\nORCID\nGitHub #- LinkedIn"
   },
   {
     "objectID": "commands-notes.html",
@@ -200,6 +200,6 @@
     "href": "publications.html#full-publication-list",
     "title": "Publications",
     "section": "Full publication list",
-    "text": "Full publication list\n\nNASA ADS\nGoogle Scholar"
+    "text": "Full publication list\n\nNASA ADS"
   }
 ]

@@ -18,5 +18,4 @@ title: "Publications"
 
 ## Full publication list
 
-- [NASA ADS](https://ui.adsabs.harvard.edu/)
-- [Google Scholar](https://scholar.google.com/)
+- [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/Kd0naFpJRmOKefCsweQ8kQ)

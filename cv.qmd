@@ -35,6 +35,7 @@ GAMA, DEVILS, 4MOST/WAVES, 4MOST/4HS, ASKAP/DINGO, ASKAP/WALLABY, ASKAP/EMU, EMP
 
 ## Observing and computing experience
 
+- 10 nights of observing with 4MOST instrument on VISTA (part of SPV observations) at ESO Paranal Observatory, Chile
 - Co-I, EMPOWER Survey, VLT/KMOS, 150 hours
 - ESO VISTA Telescope, 4MOST observing, 10 nights, Paranal, Chile
 - Blanco Telescope, DECam, 2 nights, remote observing
